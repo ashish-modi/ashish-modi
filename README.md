@@ -6,7 +6,7 @@ Software Development Engineer and Machine Learning Researcher. Recently complete
 
 ## My Github Stats
 
-[![Ashish's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashish-modi&show_icons=true&theme=default)](https://github.com/ashish-modi)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ashish-modi&show_icons=true&theme=default)](https://github.com/ashish-modi)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ashish-modi)](https://github.com/ashish-modi)
 
@@ -15,13 +15,15 @@ Software Development Engineer and Machine Learning Researcher. Recently complete
 - 🎓 M.Tech in Computer Science Engineering, IIT Delhi.
 - 🔬 Research: Adversarial evasion & robustness of automotive Intrusion Detection Systems (CAN Bus security)
 - 📄 Paper "AutoCAFE: Constraint-Aware Functionality-Preserving Adversarial Evasion of Automotive IDS" — submitted to ACM AsiaCCS 2027
-- 🔭 Currently building **CANBench **, a CAN IDS benchmarking framework (DenseNet, InceptionResNet, Random Forest + FGSM attack/defense evaluation)
+- 🔭 Currently building **CANBench**, a CAN IDS benchmarking framework (DenseNet, InceptionResNet, Random Forest + FGSM attack/defense evaluation)
 - 💼 Ex-Software Engineer at Cognizant — backend systems on IBM i (RPGLE, DB2 SQL)
 - 🧠 ML/GenAI: PyTorch, TensorFlow, Scikit-learn, LangChain, FAISS, RAG
 - 🛠️ Backend & Infra: Django REST Framework, PostgreSQL, Docker, REST APIs
 - 🏆 1684 LeetCode rating · 500+ DSA problems solved
 - 📜 Stanford Online / DeepLearning.AI: Supervised ML, Advanced Learning Algorithms (2024)
 - 📫 Reach me: ashishmodi30@gmail.com · [LinkedIn](https://linkedin.com/in/ashish-modi-a0a8a41b2)
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/ashish_modi_?ext=heatmap)](https://leetcode.com/u/ashish_modi_/)
 
 ## Featured Work
 
